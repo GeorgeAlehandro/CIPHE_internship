@@ -1,0 +1,6 @@
+Infinity_target	Infinity_isotype
+Podoplanin	SHIgG
+SSEA-3	rIgM
+TCR Vg3	SHIgG
+SHIgG	SHIgG
+rIgM	rIgM

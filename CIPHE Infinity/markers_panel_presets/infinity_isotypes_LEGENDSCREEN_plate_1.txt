@@ -1,0 +1,97 @@
+Infinity_target	Infinity_isotype
+Blank	Blank
+IgG Isotype Ctrl	Armenian Hamster IgG
+CD3?	Armenian Hamster IgG
+CD80	Armenian Hamster IgG
+CD81	Armenian Hamster IgG
+CD154	Armenian Hamster IgG
+Notch 1	Armenian Hamster IgG
+CD30	Armenian Hamster IgG
+CD178	Armenian Hamster IgG
+CD103	Armenian Hamster IgG
+Delta-like 4	Armenian Hamster IgG
+CD195	Armenian Hamster IgG
+Notch 4	Armenian Hamster IgG
+CD229 (Ly-9)	Armenian Hamster IgG
+CD69	Armenian Hamster IgG
+Notch 3	Armenian Hamster IgG
+JAML	Armenian Hamster IgG
+Notch 2	Armenian Hamster IgG
+CD194	Armenian Hamster IgG
+CD152	Armenian Hamster IgG
+CD120a	Armenian Hamster IgG
+CD11c	Armenian Hamster IgG
+Delta-like 1	Armenian Hamster IgG
+CD196	Armenian Hamster IgG
+CD29	Armenian Hamster IgG
+CD55	Armenian Hamster IgG
+Jagged 2	Armenian Hamster IgG
+CD79b	Armenian Hamster IgG
+IFN-? R b chain	Armenian Hamster IgG
+CD61	Armenian Hamster IgG
+CD121a	Armenian Hamster IgG
+TCR ? chain	Armenian Hamster IgG
+Fc?RI?	Armenian Hamster IgG
+CD16.2	Armenian Hamster IgG
+CD36	Armenian Hamster IgG
+DcTRAIL-R1	Armenian Hamster IgG
+CD84	Armenian Hamster IgG
+CD48	Armenian Hamster IgG
+CD49b	Armenian Hamster IgG
+CD120b	Armenian Hamster IgG
+CD183	Armenian Hamster IgG
+CD262	Armenian Hamster IgG
+HVEM	Armenian Hamster IgG
+TCR V?1.1 + V?1.2	Armenian Hamster IgG
+B7-H4	Armenian Hamster IgG
+CD339	Armenian Hamster IgG
+CD49a	Armenian Hamster IgG
+PD-1H	Armenian Hamster IgG
+CD85k	Armenian Hamster IgG
+Plexin B2	Armenian Hamster IgG
+CD27	"Armenian Hamster IgG1, "
+DR3	Armenian Hamster IgG1
+TCR ?/?	Hamster IgG
+"IgG2a, ? Isotype Ctrl"	"Mouse IgG2a, k"
+CD45.1	"Mouse (A.SW) IgG2a, k"
+CD45.2	"Mouse (SJL) IgG2a, k"
+NK-1.1	"Mouse IgG2a, k"
+Ly108	"Mouse IgG2a, k"
+CD207	"Mouse IgG2a, k"
+CX3CR1	"Mouse IgG2a, k"
+"IgG1, ? Isotype Ctrl"	"Mouse IgG1, k"
+CD66a	"Mouse IgG1, k"
+IFNAR-1	"Mouse IgG1, k"
+Tim-2	"Mouse IgG1, k"
+CD272	"Mouse IgG1, k"
+CD64	"Mouse IgG1, k"
+CD351	"Mouse IgG1, k"
+LAP	"Mouse IgG1, k"
+TIGIT	"Mouse IgG1, k"
+Trem-like 4	"Mouse IgG1, k"
+CD59a	"Mouse IgG1, k"
+Ly49H	"Mouse IgG1, k"
+CD90.1	"Mouse IgG1, k"
+"IgG2b, ? Isotype Ctrl"	"Mouse IgG2b, k"
+CD157	"Mouse IgG2b, k"
+CD159a	"Mouse IgG2b, k"
+XCR1	"Mouse IgG2b, k"
+"IgM, ? Isotype Ctrl"	"Mouse IgM, k"
+SSEA-1	"Mouse IgM, k"
+"IgG1, ? Isotype Ctrl"	"Rat IgG1, k"
+Ig light chain ?	Rat IgG
+Siglec H	"Rat IgG1, K"
+CD255	"Rat IgG1, k"
+CD202b	"Rat IgG1, k"
+GITR Ligand	"Rat IgG1, k"
+CD147	"Rat IgG1, k"
+CD73	"Rat IgG1, k"
+CD51	"Rat IgG1, k"
+NKG2D	"Rat IgG1, k"
+CD96	"Rat IgG1, k"
+Integrin ?7	"Rat IgG1, k"
+CD210	"Rat IgG1, k"
+CD83	"Rat IgG1, k"
+Mac-3	"Rat IgG1, k"
+CD223	"Rat IgG1, k"
+CD134	"Rat IgG1, k"

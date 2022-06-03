@@ -1,0 +1,4 @@
+Infinity_target	Infinity_isotype
+CD28	SHIgG
+CD49b(pan-NK)	rIgM
+CD137	SHIgG

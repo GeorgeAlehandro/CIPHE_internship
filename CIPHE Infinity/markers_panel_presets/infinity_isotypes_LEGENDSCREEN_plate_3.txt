@@ -1,0 +1,97 @@
+Infinity_target	Infinity_isotype
+Blank	Blank
+CD300LG	"Rat IgG2a, k"
+CD301a	"Rat IgG2a, k"
+IL-33R?	"Rat IgG2a, k"
+CD304	"Rat IgG2a, k"
+CD6	"Rat IgG2a, k"
+CD100	"Rat IgG2a, k"
+CD104	"Rat IgG2a, k"
+CD182	"Rat IgG2a, k"
+MAdCAM-1	"Rat IgG2a, k"
+MERTK (Mer)	"Rat IgG2a, k"
+CD226	"Rat IgG2a, k "
+Ly6K	"Rat IgG2a, k "
+CD16/32	"Rat IgG2a, ?"
+CD150	"Rat IgG2a, ?"
+CD25	"Rat IgG2a, ?"
+CD38	"Rat IgG2a, ?"
+CD133	"Rat IgG2a, ?"
+CD301b	"Rat IgG2a, ?"
+CD34	"Rat IgG2a, ?"
+"IgG2b, ? Isotype Ctrl"	"Rat IgG2b, k"
+CD43	"Rat IgG2b, k"
+FR4	"Rat IgG2b, k"
+CD1d	"Rat IgG2b, k"
+CD70	"Rat IgG2b, k"
+CD4	"Rat IgG2b, k"
+I-A/I-E	"Rat IgG2b, k"
+CD153	"Rat IgG2b, k"
+CD54	"Rat IgG2b, k"
+33D1	"Rat IgG2b, k"
+CD90.2	"Rat IgG2b, k"
+TER-119	"Rat IgG2b, k"
+CD49d	"Rat IgG2b, k"
+CD24	"Rat IgG2b, k"
+Ly-6G/Ly-6C	"Rat IgG2b, k"
+CD86	"Rat IgG2b, k"
+CD11b	"Rat IgG2b, k"
+CD45	"Rat IgG2b, k"
+CD279	"Rat IgG2b, k"
+RAE-1?	"Rat IgG2b, k"
+CD8b	"Rat IgG2b, k"
+CD44	"Rat IgG2b, k"
+CD126	"Rat IgG2b, k"
+CD317	"Rat IgG2b, k"
+CD132	"Rat IgG2b, k"
+CD3	"Rat IgG2b, k"
+CD274	"Rat IgG2b, k"
+CD117	"Rat IgG2b, k"
+CD88	"Rat IgG2b, k"
+CD93	"Rat IgG2b, k"
+CD252	"Rat IgG2b, k"
+MD-1	"Rat IgG2b, k"
+CD357	"Rat IgG2b, k"
+CD185	"Rat IgG2b, k"
+CD37	"Rat IgG2b, k"
+CD300c/d	"Rat IgG2b, k"
+CD186 (CXCR6)	"Rat IgG2b, k"
+CD130	"Rat IgG2b, k"
+CD198	"Rat IgG2b, k"
+CD20	"Rat IgG2b, k"
+CD124	"Rat IgG2b, k "
+IL-23R	"Rat IgG2b, k "
+CD184	"Rat IgG2b, k"
+CD2	"Rat IgG2b, ?"
+"IgG2c,k Isotype Ctrl"	"Rat IgG2c, k"
+Ly-6C	"Rat IgG2c, k"
+Ly-6D	"Rat IgG2c, k"
+"IgM, ? Isotype Ctrl"	"Rat IgM, k"
+CD49b	"Rat IgM, k"
+GL7	"Rat IgM, k"
+IgG Isotype Ctrl	Syrian Hamster IgG
+CD28	Syrian Hamster IgG
+Podoplanin	Syrian Hamster IgG
+CD137	Syrian Hamster IgG
+CD278	Syrian Hamster IgG
+KLRG1	Syrian Hamster IgG
+Ly-49C/F/I/H	Syrian Hamster IgG
+Blank	
+Blank	
+Blank	
+Blank	
+Blank	
+Blank	
+Blank	
+Blank	
+Blank	
+Blank	
+Blank	
+Blank	
+Blank	
+Blank	
+Blank	
+Blank	
+Blank	
+Blank	
+Blank	

@@ -1,0 +1,3 @@
+Infinity_target	Infinity_isotype
+KLRG1	SHIgG
+Ly-49c/F/I/H	SHIgG
