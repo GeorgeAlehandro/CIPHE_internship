@@ -36,12 +36,13 @@ The scripts that were used in the first tool of gating that was used in CIPHE, I
 Please refer to https://github.com/GeorgeAlehandro/cipheinfinityFlow and https://github.com/GeorgeAlehandro/cipheCytoExploreR to oberve the modifications that I made over the two main packages (with all rights reserved to the original creators) in order to ensure a compatibility with R Shiny UI.\
 Might also be interesting to take a look at both of these issues:
 * https://github.com/DillonHammill/CytoExploreR/issues/143
-* https://github.com/ebecht/infinityFlow/issues/6
+* https://github.com/ebecht/infinityFlow/issues/6  
+
 A list of all the packages and dependencies used to run the tools are available in https://github.com/GeorgeAlehandro/CIPHE_internship/blob/main/prerequisites.csv
 ## More info about the tools
 Check CIPHE Gate and CIPHE Infinity for a step-by-step tutorial for each of the tools.\
 Also, if you would like to take a look at my M1 internship report paper, I can provide it.
 ## Credits
 I would like to thank Mr. Etienne Becht and Mr. Dillon Hammil for their support.\
-I also thank a lot another contributor for the tools, even without coding, Mr. Hervé Luche for his guidance and continous feedback.
+I also thank a lot another contributor for the tools, even without coding, Dr. Hervé Luche for his guidance and continuous feedback.
 
