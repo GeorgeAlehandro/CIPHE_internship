@@ -1,0 +1,14 @@
+Parameter,Label,Name
+Time,,
+FSC-A,,
+FSC-H,,
+FSC-W,,
+SSC-A,,
+SSC-H,,
+SSC-W,,
+V-V500-A,CD27,V-V500-A
+V-BV570-A,Ly6C,V-BV570-A
+BV-Amcyan-A,Live/Dead,BV-Amcyan-A
+G-PE-Cy5-A,CD5,G-PE-Cy5-A
+R-APC-A,CD161,R-APC-A
+R-Alexa700-A,CD11b,R-Alexa700-A

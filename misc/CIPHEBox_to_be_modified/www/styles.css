@@ -1,0 +1,43 @@
+div#shiny-notification-panel {
+	width:40%;
+	height:25%;
+	font-size:50px;
+	top:50%;
+	right:40%;
+}
+
+select[multiple]#clusteringui_files_list {
+  height : 400px;
+}
+
+div.col-sm-9{
+  float:right !important;
+}
+
+div#gatingStrat div,
+div#plotPreviewMultiple div{
+  float:left !important;
+}
+
+div#markerDensityPlot div {
+  width:260px !important;
+  height:260px !important;
+  float:left !important;
+}
+
+a#downloadData{
+  color: #444 !important;
+}
+
+div#test{
+  float: left;
+}
+
+div#test ul li.active a {
+  background:none !important;
+}
+
+div#test ul li a {
+  background:none !important;
+  color:white !important;
+}
